@@ -1,0 +1,206 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+a{
+	color: black;
+}
+.xl{
+	border-top:1px solid black ;
+}
+
+.top{
+	width: 1300px;
+	margin: 0 auto;
+}
+.ul1{
+	margin-top: 16px;
+	display: flex;
+}
+.ul1 li{
+	padding-left: 12px;
+	padding-right:12px ;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	border-right:1px  solid black;
+}
+.ul1 li:hover{
+		background-color: #FFCC01;
+}
+.li1{
+	position: relative;
+}
+.l{
+	display: none;
+	text-align: center;
+	width: 80px;
+	height: 40px;
+	position: absolute;
+}
+
+.l p{
+	background-color:lightgray ;
+}
+.l p:hover{
+	color: white;
+	background-color: orange;
+}
+
+.li2{
+	position: relative;
+}
+.l1{
+	display: none;
+	text-align: center;
+	width: 80px;
+	height: 40px;
+	position: absolute;
+}
+
+.l1 p{
+	background-color:lightgray ;
+}
+.l1 p:hover{
+	color: white;
+	background-color: orange;
+}
+.li3{
+	position: absolute;
+	position: relative;
+}
+.l2{
+	display: none;
+	text-align: center;
+	width: 100px;
+	
+	position: absolute;
+}
+.l2 p{
+	background-color:lightgray ;
+}
+.l2 p:hover{
+	color: white;
+	background-color: orange;
+}
+.p1 img{
+	height: 560px;
+	width: 1300px;
+}
+.p1{
+	position: relative;
+	padding-top: 50px;
+	width: 1300px;
+	margin: 0 auto;
+	
+}
+.ii{
+	left: 720px;
+	top: 98px;
+	position: absolute;
+	width: 436px;
+	height: 466px;
+	border: 2px solid red;
+}
+.ii p:nth-child(1) {
+	margin-top: 26px;
+	font-size: 70px;
+	color: white;
+	font-family:    "franklin gothic demi" ;
+}
+.ii p:nth-child(2) {
+	margin-top: 12px;
+	font-size: 70px;
+	color: white;
+	font-family:    "franklin gothic demi" ;
+}
+.ii p:nth-child(3) {
+	margin-top: 36px;
+	font-size: 40px;
+	color: white;	
+}
+.ii p:nth-child(4) {
+	margin-top: 26px;	
+}
+.ii p:nth-child(4) button{
+	width: 100px;
+	height: 30px;
+	border: 1px solid orange;
+	background-color: orange;
+}
+.ii p{
+	margin-left: 60px;
+}
+.p1 img:hover{
+	filter: brightness(116%);
+}
+
+
+.jo img{
+	height: 560px;
+	width: 1300px;
+}
+.jo{
+	position: relative;
+	padding-top: 50px;
+	width: 1300px;
+	margin: 0 auto;
+	
+}
+.ii1{
+	left: 60px;
+	top: 98px;
+	position: absolute;
+	width: 446px;
+	height: 466px;
+	border: 2px solid red;
+}
+.ii1 p:nth-child(1) {
+	margin-top: 26px;
+	font-size: 60px;
+	color: white;
+	font-family:    "franklin gothic demi" ;
+}
+.ii1 p:nth-child(2) {
+	margin-top: 12px;
+	font-size: 70px;
+	color: white;
+	font-family:    "franklin gothic demi" ;
+}
+.ii1 p:nth-child(3) {
+	margin-top: 36px;
+	font-size: 40px;
+	color: white;	
+}
+.ii1 p:nth-child(4) {
+	margin-top: 26px;	
+}
+.ii1 p:nth-child(4) button{
+	width: 100px;
+	height: 30px;
+	border: 1px solid orange;
+	background-color: orange;
+}
+.ii1 p{
+	margin-left: 52px;
+}
+.jo img:hover{
+	filter: brightness(116%);
+}
+.bo3{
+	justify-content: space-around;
+	display: flex;
+	width: 1300px;
+	margin: 0 auto;
+	flex-wrap: wrap;
+}
+.pp{
+	height: 490px;
+	margin-top: 36px;
+
+}
+.pp:hover{
+	filter: brightness(116%);
+}
+
